@@ -7,7 +7,7 @@ This mainly stems from two issues
 * Recruiters phone a lot, tech companies work better by email
 * There are too many recruiters to effectively manage
  
-A better process was needed and drawing heavy inspiration from [Shutl: Note to Recruiters](http://uk.moo.com/about/recruiters.htmlhttp://shutl.com/note-to-recruiters) and [Moo: Hello Recruiters](http://uk.moo.com/about/recruiters.html) we created this policy.
+A better process was needed and drawing heavy inspiration from [Shutl: Note to Recruiters](http://shutl.com/note-to-recruiters) and [Moo: Hello Recruiters](http://uk.moo.com/about/recruiters.html) we created this policy.
 
 Since this may be use to other companies out there we've open sourced it. Feel free to use this text verbatim, or altered as you like to suit your business.
 
