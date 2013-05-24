@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Recruiting can be time consuming for small companies. There is no specialist team to deal with recruiting. It’s just us. We all have other work to be getting on with. We’re happy to work with recruiters if it makes our lives easier. However experience has shown that this is not always the case, and many recruiters add workload [cf: overhead reasons](blob/overhead_reasons).
+Recruiting can be time consuming for small companies. There is no specialist team to deal with recruiting. It’s just us. We all have other work to be getting on with. We’re happy to work with recruiters if it makes our lives easier. However experience has shown that this is not always the case, and many recruiters add workload [cf: overhead reasons](overhead_reasons.md).
 
 Please read our rules for working with us below. We don’t want to appear to be difficult to work with (we’re not) but we simply don’t have the time or capacity to manage agencies that don’t want to work with us in this way.
 
-Agencies/Recruiters not following these rules, will get blacklisted. Equally Agencies/Recruiters who stand out will be listed on the [NTR](github url) for other businesses to use.
+Agencies/Recruiters not following these rules, will get blacklisted. Equally Agencies/Recruiters who stand out will be listed on the NTR under the ['Recommended Recruiters'](recommended_recruiters.md) section for other businesses to use.
 
 ## Policy
 
