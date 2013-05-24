@@ -42,4 +42,5 @@ _These Terms supercede any similar terms in indivudal agency's contracts._
 * We will pay within 30 days of invoicing
 * The invoice date can be no earlier than the candidate's start date
 * If we hire the candidate within 6 months of introduction we will pay your fee.
-* If the candidate leaves within 12 working weeks of the introduction (for any reason, including dismissal), you will refund was 8.3% for each week the candidate 
+* If the candidate leaves within 12 working weeks of the introduction (for any reason, including dismissal), you will try find a replacement free of charge.
+* If you are unable to find a replacement you will refund 8.3% of your fee for each week of the first 12 the candidate didn't work.
