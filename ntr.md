@@ -12,13 +12,13 @@ Agencies/Recruiters not following these rules, will get blacklisted. Equally Age
 
 
 ### Phone Calls
-* Do not call us. We do not take unsolicited calls for recruitment. Ever. Unsolicited calls are a fast way to make sure we wont work with you.
-* If we're working regarding a role or candiate, we'll explain how best to contact us on that role/candidate.
+* Do not call us. We do not take unsolicited calls for recruitment. Ever. Unsolicited calls are a fast way to make sure we won't work with you.
+* If we're working regarding a role or candiate, we'll explain how best to contact us about that role/candidate.
 * Do not call incessantly to find out if we’ve made a decision. We’ll give you a timeframe. If we say we’re going to get back to you on Monday, that’s when we’ll get back to you.
 
 ### Positions
 * If you want to know about available jobs, keep an eye on our jobs page or twitter feed.
-* Each position will have it’s own specific email address. Send CVs to that email address for that position only
+* Each position will have its own specific email address. Send CVs to that email address for that position only.
 * Read the role. Do not send contractors if we specify permanent staff. Do not send PHP developers for a Rails position.
 
 ### Terms and Conditions
@@ -27,7 +27,7 @@ Agencies/Recruiters not following these rules, will get blacklisted. Equally Age
 
 
 ### Unacceptable practices. 
-_Doing any of these will result in being automatically blacklisted and we wont work with you_
+_Doing any of these will result in being automatically blacklisted and we won't work with you_
 
 * Do not lie to us. Do not phone and say you know us when you don’t. Do not tell the person answering the phone a different story to the person who are trying to get hold of.
 * Do not try poach our staff. The whole team/office can hear when there is a recruiter on the line trying to do this. This makes both the person you’re speaking to uncomfortable, as well as the team around him. Do not do this.
@@ -42,5 +42,5 @@ _These Terms supercede any similar terms in indivudal agency's contracts._
 * We will pay within 30 days of invoicing
 * The invoice date can be no earlier than the candidate's start date
 * If we hire the candidate within 6 months of introduction we will pay your fee.
-* If the candidate leaves within 12 working weeks of the introduction (for any reason, including dismissal), you will try find a replacement free of charge.
+* If the candidate leaves within 12 working weeks of the introduction (for any reason, including dismissal), you will try to find a replacement free of charge.
 * If you are unable to find a replacement you will refund 8.3% of your fee for each week of the first 12 the candidate didn't work.
