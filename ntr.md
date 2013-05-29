@@ -10,7 +10,6 @@ Agencies/Recruiters not following these rules, will get blacklisted. Equally Age
 
 ## Policy
 
-
 ### Phone Calls
 * Do not call us. We do not take unsolicited calls for recruitment. Ever. Unsolicited calls are a fast way to make sure we won't work with you.
 * If we're working regarding a role or candiate, we'll explain how best to contact us about that role/candidate.
@@ -20,6 +19,9 @@ Agencies/Recruiters not following these rules, will get blacklisted. Equally Age
 * If you want to know about available jobs, keep an eye on our jobs page or twitter feed.
 * Each position will have its own specific email address. Send CVs to that email address for that position only.
 * Read the role. Do not send contractors if we specify permanent staff. Do not send PHP developers for a Rails position.
+
+### CVs
+* Do not send us anonymous CVs - they will not be considered. If you send me a candidate I want to know who they are, where they've worked and whether I've seen them before.
 
 ### Terms and Conditions
 * We will not sign your terms and conditions. 
