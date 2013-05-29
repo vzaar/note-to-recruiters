@@ -21,7 +21,7 @@ Agencies/Recruiters not following these rules, will get blacklisted. Equally Age
 * Read the role. Do not send contractors if we specify permanent staff. Do not send PHP developers for a Rails position.
 
 ### CVs
-* Do not send us anonymous CVs - they will not be considered. If you send me a candidate I want to know who they are, where they've worked and whether I've seen them before.
+* Do not send us anonymous CVs - they will not be considered. If you send us a candidate we want to know who they are, where they've worked and whether we've seen them before.
 
 ### Terms and Conditions
 * We will not sign your terms and conditions. 
