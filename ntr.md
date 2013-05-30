@@ -43,6 +43,7 @@ _These Terms supercede any similar terms in indivudal agency's contracts._
 * We will pay 15% of year 1 base salary
 * We will pay within 30 days of invoicing
 * The invoice date can be no earlier than the candidate's start date
-* If we hire the candidate within 6 months of introduction we will pay your fee.
-* If the candidate leaves within 12 working weeks of the introduction (for any reason, including dismissal), you will try to find a replacement free of charge.
-* If you are unable to find a replacement you will refund 8.3% of your fee for each week of the first 12 the candidate didn't work.
+* If candidate starts work as our employee within 6 months of you introducing the candidate to us, we will pay your fee, unless the candidate was already known to us when you introduced them, in which case no fee is payable.
+* If a candidate is already known to us when you introduce them, we will tell you this promptly.
+* If the candidate leaves within 12 working weeks of their start date (for any reason, including dismissal), you will try to find a replacement free of charge.
+* If you are unable to find a replacement acceptable to us you will refund 8.3% of your fee for each week of the first 12 the candidate didn't work.
