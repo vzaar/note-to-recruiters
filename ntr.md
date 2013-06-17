@@ -22,6 +22,7 @@ Agencies/Recruiters not following these rules, will get blacklisted. Equally Age
 
 ### CVs
 * Do not send us anonymous CVs - they will not be considered. If you send us a candidate we want to know who they are, where they've worked and whether we've seen them before.
+* When sending us a CV, please include the candidate's salary expectations and availability
 
 ### Terms and Conditions
 * We will not sign your terms and conditions. 
