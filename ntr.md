@@ -20,9 +20,10 @@ Agencies/Recruiters not following these rules, will get blacklisted. Equally Age
 * Each position will have its own specific email address. Send CVs to that email address for that position only.
 * Read the role. Do not send contractors if we specify permanent staff. Do not send PHP developers for a Rails position.
 
-### CVs
+### CVs /  Candidates
 * Do not send us anonymous CVs - they will not be considered. If you send us a candidate we want to know who they are, where they've worked and whether we've seen them before.
 * When sending us a CV, please include the candidate's salary expectations and availability
+* We typically only consider candidates already in the UK. If they are not in the UK, please tell us.
 
 ### Terms and Conditions
 * We will not sign your terms and conditions. 
