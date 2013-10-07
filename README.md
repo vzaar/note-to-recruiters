@@ -23,3 +23,4 @@ Please fork it, change it. Also, if you feel there are changes that would benefi
 ## Companies using the NTR
 
 * [vzaar](http://vzaar.com) - Online Video Hosting
+* [The Scale Factory](http://www.scalefactory.com/) - DevOps consultancy
