@@ -30,8 +30,8 @@ Agencies/Recruiters not following these rules will get blacklisted. Equally Agen
 _Doing any of these will result in being automatically blacklisted and we won't work with you:_
 
 * Do not lie to us. Do not phone and say you know us when you don’t. Do not tell the person answering the phone a different story to the person who you are trying to get hold of.
-* Do not try poach our staff. The whole team/office can hear when there is a recruiter on the line trying to do this. This makes both the person you’re speaking to uncomfortable, as well as the team around them. Do not do this.
-* Passing on details of candidates you’ve placed to other recruiters to try poach after you’ve received your fee.
+* Do not try to poach our staff. The whole team/office can hear when there is a recruiter on the line trying to do this. This makes both the person you’re speaking to uncomfortable, as well as the team around them. Do not do this.
+* Passing on details of candidates you’ve placed to other recruiters to try to poach them after you’ve received your fee.
 
 
 ## Terms & Fees
